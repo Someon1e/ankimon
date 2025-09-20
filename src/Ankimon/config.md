@@ -19,7 +19,7 @@ You can decide if you want the Gif Animations in the anki reviewer
 - `reviewer_image_gif` [True/False]
 
 Ankimon Window Key:
-You can decide which letter key should be pressed additionally to controll / command (like M etc) to open and close the ankimon window from the anki reviewer
+You can decide which letter key should be pressed additionally to control / command (like M etc) to open and close the ankimon window from the anki reviewer
 - `key_for_opening_closing_ankimon` [A - Z]
 
 Main Pokemon in Reviewer:
@@ -118,3 +118,4 @@ Language Options (Select a Number from the ones below to the corresponding langu
     | 12  | Chinese (Simplified)   | Yes      |
 
     | 13  | Portuguese (Brazil)    | No       |
+
